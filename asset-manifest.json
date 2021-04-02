@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/ruleau-nextgen/static/js/main.732fec32.chunk.js",
+    "main.js.map": "/ruleau-nextgen/static/js/main.732fec32.chunk.js.map",
+    "runtime-main.js": "/ruleau-nextgen/static/js/runtime-main.9f79ee28.js",
+    "runtime-main.js.map": "/ruleau-nextgen/static/js/runtime-main.9f79ee28.js.map",
+    "static/js/2.9e0f8920.chunk.js": "/ruleau-nextgen/static/js/2.9e0f8920.chunk.js",
+    "static/js/2.9e0f8920.chunk.js.map": "/ruleau-nextgen/static/js/2.9e0f8920.chunk.js.map",
+    "static/js/3.ca3a7ea7.chunk.js": "/ruleau-nextgen/static/js/3.ca3a7ea7.chunk.js",
+    "static/js/3.ca3a7ea7.chunk.js.map": "/ruleau-nextgen/static/js/3.ca3a7ea7.chunk.js.map",
+    "static/js/4.821b1ebe.chunk.js": "/ruleau-nextgen/static/js/4.821b1ebe.chunk.js",
+    "static/js/4.821b1ebe.chunk.js.map": "/ruleau-nextgen/static/js/4.821b1ebe.chunk.js.map",
+    "static/js/5.3ffd2739.chunk.js": "/ruleau-nextgen/static/js/5.3ffd2739.chunk.js",
+    "static/js/5.3ffd2739.chunk.js.map": "/ruleau-nextgen/static/js/5.3ffd2739.chunk.js.map",
+    "index.html": "/ruleau-nextgen/index.html",
+    "static/js/2.9e0f8920.chunk.js.LICENSE.txt": "/ruleau-nextgen/static/js/2.9e0f8920.chunk.js.LICENSE.txt",
+    "static/js/3.ca3a7ea7.chunk.js.LICENSE.txt": "/ruleau-nextgen/static/js/3.ca3a7ea7.chunk.js.LICENSE.txt",
+    "static/js/4.821b1ebe.chunk.js.LICENSE.txt": "/ruleau-nextgen/static/js/4.821b1ebe.chunk.js.LICENSE.txt",
+    "static/js/5.3ffd2739.chunk.js.LICENSE.txt": "/ruleau-nextgen/static/js/5.3ffd2739.chunk.js.LICENSE.txt",
+    "static/media/account.2778bed0.svg": "/ruleau-nextgen/static/media/account.2778bed0.svg",
+    "static/media/logo.c304c24e.svg": "/ruleau-nextgen/static/media/logo.c304c24e.svg",
+    "static/media/settings.f3f6e70c.svg": "/ruleau-nextgen/static/media/settings.f3f6e70c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f79ee28.js",
+    "static/js/2.9e0f8920.chunk.js",
+    "static/js/main.732fec32.chunk.js"
+  ]
+}
