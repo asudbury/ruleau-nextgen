@@ -1,0 +1,11 @@
+const MyAccordion = withStyles({
+  root: {
+    borderRadius: "2em",
+  },
+})(Accordion);
+
+const MyAccordionDetails = withStyles((theme) => ({
+  root: {
+    paddingTop: theme.spacing(0),
+  },
+}))(AccordionDetails);
