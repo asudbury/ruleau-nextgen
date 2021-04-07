@@ -29,13 +29,12 @@ export default function HomePage() {
         <Box p={5}>
           <Grid container spacing={5}>
             <Hidden smDown>
-              <Grid item md={5} component={Box} className={classes.image}>
-                <Box p={5}>
-                  <Typography variant="h5" gutterBottom>
-                    About Ruleau
-                  </Typography>
-                </Box>
-              </Grid>
+              <Grid
+                item
+                md={5}
+                component={Box}
+                className={classes.image}
+              ></Grid>
             </Hidden>
             <Grid item xs={12} sm={12} md={7}>
               <LoginContainer initialState={FormState.EmailAddress} />
