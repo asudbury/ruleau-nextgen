@@ -8,6 +8,7 @@ export default function HomePage() {
   const useStyles = makeStyles(() => ({
     root: {
       display: "flex",
+      backgroundImage: "../../public/assets/img/background.png",
     },
   }));
 
