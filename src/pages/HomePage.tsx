@@ -16,6 +16,7 @@ export default function HomePage() {
       backgroundRepeat: "no-repeat",
       backgroundSize: "cover",
       backgroundPosition: "center",
+      width: 1000,
     },
   }));
 
